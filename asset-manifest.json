@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.95122cfd.js",
-    "static/js/787.374f33d4.chunk.js": "/static/js/787.374f33d4.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.95122cfd.js.map": "/static/js/main.95122cfd.js.map",
-    "787.374f33d4.chunk.js.map": "/static/js/787.374f33d4.chunk.js.map"
+    "main.css": "/brick_academy/static/css/main.073c9b0a.css",
+    "main.js": "/brick_academy/static/js/main.4ee1f259.js",
+    "static/js/787.374f33d4.chunk.js": "/brick_academy/static/js/787.374f33d4.chunk.js",
+    "static/media/logo.svg": "/brick_academy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brick_academy/index.html",
+    "main.073c9b0a.css.map": "/brick_academy/static/css/main.073c9b0a.css.map",
+    "main.4ee1f259.js.map": "/brick_academy/static/js/main.4ee1f259.js.map",
+    "787.374f33d4.chunk.js.map": "/brick_academy/static/js/787.374f33d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.95122cfd.js"
+    "static/js/main.4ee1f259.js"
   ]
 }
