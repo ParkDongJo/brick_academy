@@ -1,2 +1,1 @@
-# brick_academy
-brick academy site 
+# Getting Started with Brick Academy Site
